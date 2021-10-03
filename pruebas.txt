@@ -1,3 +1,4 @@
 texto añadiddo en bloc de notas
 Taxto aÃ±adido desde la consola
+Vesrión 2.0 
 
